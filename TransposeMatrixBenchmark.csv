@@ -1,0 +1,7 @@
+Algorithm,Size,Time
+Transpose,2048,0.030549791
+Transpose,2048,0.033070558
+Transpose,3072,0.079612877
+Transpose,3072,0.081813952
+Transpose,4096,0.148794988
+Transpose,4096,0.194577468
